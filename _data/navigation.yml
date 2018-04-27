@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Главная
+  url: /
+  excerpt: "Завитинск. Федеральная трасса Чита-Хабаровск."
+  image: f1.jpg
+
+- title: Гостиница
+  url: /hotel/
+  excerpt: "1 и 2-х местные номера."
+  image: index2.jpg
+
+- title: Кафе
+  url: /cafe/
+  excerpt: "Большой ассортимент бара и кухни."
+  image: kuhn.jpg
+
+- title: Бассейн, душ.
+  url: /sauna/
+  excerpt: "Не откажите себе в удовольствии помыться с дороги, сделать приятную остановку."
+  image: dush1.jpg

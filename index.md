@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: default
 permalink: /
-title: "Latest Posts"
+title: "Кафе Maxim"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<div role="contentinfo" id="site-footer1">
+<img src="http://localhost:4000/assets/images/f1.jpg" class="page-feature-image" alt="Кафе Maxim" style="margin-bottom: -1em;">
+</div>
+
+
